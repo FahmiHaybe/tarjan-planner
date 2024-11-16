@@ -1,0 +1,68 @@
+{
+  "relative_1": {
+    "street_name": "Gangnam-daero",
+    "district": "Gangnam-gu",
+    "lat": 37.4979,
+    "lng": 127.0276
+  },
+  "relative_2": {
+    "street_name": "Yangjae-daero",
+    "district": "Seocho-gu",
+    "lat": 37.4833,
+    "lng": 127.0322
+  },
+  "relative_3": {
+    "street_name": "Sinsa-daero",
+    "district": "Gangnam-gu",
+    "lat": 37.5172,
+    "lng": 127.0286
+  },
+  "relative_4": {
+    "street_name": "Apgujeong-ro",
+    "district": "Gangnam-gu",
+    "lat": 37.5219,
+    "lng": 127.0411
+  },
+  "relative_5": {
+    "street_name": "Hannam-daero",
+    "district": "Yongsan-gu",
+    "lat": 37.534,
+    "lng": 127.0026
+  },
+  "relative_6": {
+    "street_name": "Seongsu-daero",
+    "district": "Seongdong-gu",
+    "lat": 37.5443,
+    "lng": 127.0557
+  },
+  "relative_7": {
+    "street_name": "Cheongdam-ro",
+    "district": "Gangnam-gu",
+    "lat": 37.5172,
+    "lng": 127.0391
+  },
+  "relative_8": {
+    "street_name": "Bukhan-ro",
+    "district": "Jongno-gu",
+    "lat": 37.58,
+    "lng": 126.9844
+  },
+  "relative_9": {
+    "street_name": "Samseong-ro",
+    "district": "Gangnam-gu",
+    "lat": 37.511,
+    "lng": 127.059
+  },
+  "relative_10": {
+    "street_name": "Jamsil-ro",
+    "district": "Songpa-gu",
+    "lat": 37.5133,
+    "lng": 127.1028
+  },
+  "home": {
+    "street_name": "Yeouido",
+    "district": "Yeongdeungpo-gu",
+    "lat": 37.5239,
+    "lng": 126.9267
+  }
+}

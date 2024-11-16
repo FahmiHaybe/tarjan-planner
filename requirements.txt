@@ -1,0 +1,4 @@
+setuptools~=75.1.0
+matplotlib~=3.8.4
+networkx~=3.4.2
+geopy~=2.4.1
