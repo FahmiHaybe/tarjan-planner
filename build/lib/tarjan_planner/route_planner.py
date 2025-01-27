@@ -1,9 +1,6 @@
 from itertools import permutations
 
-from .time_decorator import timethis
 
-
-@timethis
 def find_efficient_brute_force(G, home):
     nodes = list(G.nodes)
     nodes.remove(home)

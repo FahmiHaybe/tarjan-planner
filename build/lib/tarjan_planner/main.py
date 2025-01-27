@@ -1,10 +1,10 @@
 import logging
 import re
 
-from tarjan_planner.graph_builder import create_complete_graph, plot_route
-from tarjan_planner.relatives_manager import RelativesManager, Relative
-from tarjan_planner.route_planner import find_efficient_brute_force
-from tarjan_planner.transports_manager import Transport, TransportsManager
+from graph_builder import create_complete_graph, plot_route
+from relatives_manager import RelativesManager, Relative
+from route_planner import find_efficient_brute_force
+from transports_manager import Transport, TransportsManager
 
 # Configure logging
 logging.basicConfig(
