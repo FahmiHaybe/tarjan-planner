@@ -2,7 +2,9 @@ import matplotlib.pyplot as plt
 import networkx as nx
 from geopy.distance import geodesic
 
+from .time_decorator import timethis
 
+@timethis
 def create_complete_graph(relatives, home, transports, weight='time'):
     """
     Create a complete graph with edges dynamically weighted based on time or cost.

@@ -16,3 +16,8 @@ To install the Tarjan Planner package, run:
 ```sh
   pip install .
 ```
+
+## Usage
+```
+python tarjan_planner/main.py 
+```
